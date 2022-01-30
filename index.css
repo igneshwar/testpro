@@ -97,7 +97,8 @@ p{
 }
 
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
+    
     #main{
         width: 90%;
         margin: auto;
@@ -105,13 +106,13 @@ p{
     }
 
     
-}
+} */
 
-/* @media (min-width: 600px) {
+@media (min-width: 600px) {
     #main{
         width: 65%;
         margin-left: 35px;
     }
 
     
-} */
+}
